@@ -19,8 +19,4 @@
 
 ## 3. Human Character
 #### The project idea was to create a human like character that walks respecting the laws of physics
-<figure class="video_container">
-<video width="320" height="240" controls="true" allowfullscreen="true">
-  <source src="Recording%20%234.mp4" type="video/mp4">
-</video>
-</figure>
+![](Recording%20%233.mp4)
